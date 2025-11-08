@@ -1,6 +1,7 @@
 # Tkinter Calculator
-
 Simple calculator built with Python and Tkinter, the calculator features basic operations, history, clear functions and backspace.
+![View](https://github.com/yberside42/Tkinter-Calculator/blob/main/Screenshots/calculator_2.png)
+
 
 ---
 
@@ -14,6 +15,8 @@ Simple calculator built with Python and Tkinter, the calculator features basic o
 - Clear current expression (AC) and clear full history (Delete History).
 - Backspace that deletes last character.
 - Parentheses are supported in the core, but not yet available as UI buttons.
+
+![View](https://github.com/yberside42/Tkinter-Calculator/blob/main/Screenshots/calculator_1.png)
 
 ## Structure
 - core.py: Calculator logic and global variables
